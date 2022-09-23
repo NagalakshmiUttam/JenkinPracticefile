@@ -18,4 +18,10 @@ public class Script1Test {
 	public void demo3() {
 		System.out.println("demo on ManualTesting");
 	}
+	@Test
+	 public void demo4() {
+		System.out.println(System.getProperty("chrome"));
+		System.out.println(System.getProperty("linux"));
+		 
+	 }
 }
