@@ -20,8 +20,8 @@ public class Script1Test {
 	}
 	@Test
 	 public void demo4() {
-		System.out.println(System.getProperty("browser"));
-		System.out.println(System.getProperty("os"));
+		System.out.println(System.getProperty("b"));
+		System.out.println(System.getProperty("o"));
 		 
 	 }
 }
