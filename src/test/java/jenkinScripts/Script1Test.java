@@ -11,6 +11,7 @@ public class Script1Test {
 	@Test
 	public void demo2() {
 		System.out.println("demo on Java");
+		System.out.println("demo on jenkin");
 	}
 	
 	@Test
