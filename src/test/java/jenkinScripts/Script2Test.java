@@ -11,6 +11,7 @@ public class Script2Test {
 	@Test
 	public void Program2() {
 		System.out.println("Program on c#");
+		System.out.println("Program on C");
 	}
 	
 	@Test
