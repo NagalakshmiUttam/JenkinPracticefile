@@ -12,6 +12,7 @@ public class Script2Test {
 	public void Program2() {
 		System.out.println("Program on c#");
 		System.out.println("Program on C");
+		System.out.println("program on java");
 	}
 	
 	@Test
