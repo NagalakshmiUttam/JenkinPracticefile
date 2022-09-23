@@ -11,6 +11,7 @@ public class Script3Test {
 	@Test
 	public void  Agenda2() {
 		System.out.println("Directors meeting");
+		System.out.println("public meeting");
 	}
 	
 	@Test
